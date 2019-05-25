@@ -5,3 +5,4 @@ authors = ["Luke K. Schubert <lkschubert8@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+circular-queue = "0.2.0"
